@@ -1,0 +1,3 @@
+not:1
+greatness:1
+worship:2
